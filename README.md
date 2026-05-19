@@ -1,3 +1,1 @@
-# multi-job-pipeline-drill
-
-CI pipeline assignment repository.
+# multi-job-pipeline-drill-solution
