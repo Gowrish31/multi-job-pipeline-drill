@@ -34,3 +34,7 @@
 - Intended purpose: report the overall pipeline result regardless of success or failure.
 - Current issue: it is skipped when an upstream job fails because it lacks always() behavior.
 - Correct fix: run it with if: always() so it always reports the final pipeline state.
+
+
+
+added all changes
